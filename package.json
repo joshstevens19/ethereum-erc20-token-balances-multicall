@@ -1,6 +1,6 @@
 {
   "name": "ethereum-erc20-token-balances-multicall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get all erc20 token balances you want on chain in 1 JSONRPC call.",
   "main": "dist/cjs/index.js",
   "module": "./dist/esm/index.js",

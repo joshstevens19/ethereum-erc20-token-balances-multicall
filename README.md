@@ -94,7 +94,7 @@ const balances = await getBalances({
   ],
   // ethereum address of the user you want to get the balances for
   ethereumAddress: 'THE_ETHEREUM_ADDRESS',
-  // your ethers provider
+  // your web3 provider
   providerOptions: {
     web3Instance: YOUR_WEB_PROVIDER,
   },
