@@ -9,6 +9,18 @@ This uses the ethereum-multicall which is a lightweight library for interacting 
 
 ethereum-erc20-token-balances-multicall is fully written in typescript so has full compile time support. The motivation of this package was to expose a super simple and easy to understand interface for you to take the full benefits of the fast loading of erc20 balances for users. Also to not being opinionated on how you use it, you can use it with web3 or ethers.
 
+## Supports
+
+- mainnet
+- kovan
+- görli
+- rinkeby
+- ropsten
+- binance smart chain
+- xdai
+- matic
+- mumbai
+
 ## Installation
 
 ### npm:
